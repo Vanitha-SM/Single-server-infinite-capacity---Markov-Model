@@ -16,9 +16,12 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ![imAGE](2.png)
 
-
-
 ## Experiment:
+![image](https://github.com/Vanitha-SM/Single-server-infinite-capacity---Markov-Model/assets/119557985/167967bf-5f56-4534-a09a-e09db679d7c3)
+![image](https://github.com/Vanitha-SM/Single-server-infinite-capacity---Markov-Model/assets/119557985/690532ac-7f0d-49b7-b580-33c28434f6a4)
+
+
+## Program
 ```
 Developed by: Vanitha S
 Register Number: 212222100057
@@ -48,8 +51,8 @@ else:
 print("---------------------------------------------------------------")
 ```
  
-## Program
-![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
+
+
 
 ## Output :
 ![image](https://github.com/Vanitha-SM/Single-server-infinite-capacity---Markov-Model/assets/119557985/cd47cd28-f79f-4975-966d-301572dba77a)
